@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/neetesh1541.png" width="180" style="border-radius:50%" />
+<img src="https://github.com/Harsh827385.png" width="180" style="border-radius:50%" />
 </p>
 
 ## 🚀 About Me
