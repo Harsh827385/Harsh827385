@@ -144,6 +144,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-**Turning Data into Decisions 📊**
+**Made by Neetesh Kumar**
 
 </p>
