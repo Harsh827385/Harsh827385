@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-Made with ❤️ by <b>Neetesh Sharma</b>
+Made with ❤️ by <b>Harshjeet Chauhan</b>
 </p>
 
 <!--
