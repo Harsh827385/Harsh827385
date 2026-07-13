@@ -144,6 +144,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-**Made by Neetesh Kumar**
+**Made by Harshjeet Chauhan**
 
 </p>
