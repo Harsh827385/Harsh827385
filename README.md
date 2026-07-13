@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:2563EB,100:7C3AED&text=Neetesh%20Sharma&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:2563EB,100:7C3AED&text=Harshjeet%20Chauhan&fontColor=ffffff&fontSize=46&animation=fadeIn"/>
 </p>
 
 <p align="center">
